@@ -42,6 +42,10 @@ $index = 1;
         <table border="1">
             <thead>
                 <tr>
+                <div class="container-fluid">
+        <table class="table table-striped">
+            <thead>
+                <tr>
                     <th>No.</th>
                     <th>NIM</th>
                     <th>Nama</th>
